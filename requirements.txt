@@ -1,4 +1,4 @@
-pip install streamlit
+pip install streamlit==1.17.0
 pip install instabot==0.117.0
 pip install requests_toolbelt==0.9.1
 pip install requests==2.24.0
