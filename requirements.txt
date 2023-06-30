@@ -1,6 +1,6 @@
-pip install streamlit==1.17.0
-pip install instabot==0.117.0
-pip install requests_toolbelt==0.9.1
-pip install requests==2.24.0
-pip install moviepy==1.0.3
-pip install tqdm==4.41.1
+streamlit==1.17.0
+instabot==0.117.0
+requests_toolbelt==0.9.1
+requests==2.24.0
+moviepy==1.0.3
+tqdm==4.41.1
